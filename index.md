@@ -2,7 +2,7 @@
 ---
 *English follows Japanese.*
 
-Kubernetes Meetup Tokyo(以下、勉強会)は、Kubernetesユーザが集まり、KubernetesやKubernetesを使ったソフトウェアについて情報交換、交流をするための勉強会です。勉強会の開催を通じて、Kubernetesのユーザが一堂に集まり、Kubernetesにまつわる様々な分野の知識や情報を交換し、新たな友人やコミュニティとのつながり、仕事やビジネスチャンスを増やせる場所とすることが目標です。
+Kubernetes Meetup Novice(以下、勉強会)は、Kubernetesユーザが集まり、KubernetesやKubernetesを使ったソフトウェアについて情報交換、交流をするための勉強会です。勉強会の開催を通じて、Kubernetesのユーザが一堂に集まり、Kubernetesにまつわる様々な分野の知識や情報を交換し、新たな友人やコミュニティとのつながり、仕事やビジネスチャンスを増やせる場所とすることが目標です。
 
 これを達成するため、参加者の全員が、以下のポリシーに同意していただくことが必要です。全員にとって安全な環境を維持するため、皆さん一人一人にご協力をお願いします。
 
@@ -22,7 +22,7 @@ Kubernetes Meetup Tokyo(以下、勉強会)は、Kubernetesユーザが集まり
 
 参加者がハラスメント行為に属するふるまいをした場合は、勉強会主催者は適切と判断した範囲で、当該行為を行った者に対する警告や、参加費を返還せずに勉強会から追放処分とするなどを含むいかなる行動も取ります。
 
-もしあなたがハラスメントに遭った場合、他の人がハラスメントに遭っている場合、あるいは他に気になることがあった時は、すぐに勉強会スタッフの誰かに連絡していただくようお願いします。勉強会スタッフに直接連絡ができない場合は[k8sjp-admin@googlegroups.com](<mailto:k8sjp-admin@googlegroups.com>)へメールをお願いします。
+もしあなたがハラスメントに遭った場合、他の人がハラスメントに遭っている場合、あるいは他に気になることがあった時は、すぐに勉強会スタッフの誰かに連絡していただくようお願いします。勉強会スタッフに直接連絡ができない場合は[kubernetesnovice@gmail.com](<mailto:kubernetesnovice@gmail.com>)へメールをお願いします。
 
 勉強会スタッフは、ハラスメントを経験した人が、勉強会期間中安全かつ安心と感じられるように、参加者がホテル/会場の警備や近隣の警察に連絡すること、付き添い者の提供、およびその他の支援を行います。私達にとってあなたが参加しているのは大事なことなのです。
 
@@ -30,7 +30,7 @@ Kubernetes Meetup Tokyo(以下、勉強会)は、Kubernetesユーザが集まり
 
 ---
 
-Kubernetes Meetup Tokyo (hereafter referred to as the meetup) is a study event
+Kubernetes Meetup Novice (hereafter referred to as the meetup) is a study event
 and community for users of Kubernetes and Kubernetes related software to
 exchange information and ideas. Through the meetup, it is our goal to provide a
 space where Kubernetes users can meet with each other, exchange information and
@@ -65,7 +65,7 @@ clothing/uniforms/costumes, or otherwise create a sexualised environment.
 
 If a participant engages in harassing behavior, the meetup organisers may take any action they deem appropriate, including warning the offender or expulsion from the meetup with no refund.
 
-If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact a member of meetup staff immediately. If you cannot contact meetup staff in person, please send an email to [k8sjp-admin@googlegroups.com](<mailto:k8sjp-admin@googlegroups.com>).
+If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact a member of meetup staff immediately. If you cannot contact meetup staff in person, please send an email to [kubernetesnovice@gmail.com](<mailto:kubernetesnovice@gmail.com>).
 
 Meeup staff will be happy to help participants contact hotel/venue security or local law enforcement, provide escorts, or otherwise assist those experiencing harassment to feel safe for the duration of the meetup. We value your attendance.
 
